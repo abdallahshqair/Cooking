@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">طبختك علينا</string>
+    <string name="textview">TextView</string>
+    <string name="sweets">حلويـات</string>
+    <string name="pastry">معجنـات</string>
+
+</resources>
